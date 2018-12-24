@@ -2,6 +2,10 @@
 
 A repository showcasing new things I'm learning.
 
+## Adding `ggplot2` graphics inside popups on a `leaflet` map
+
+![](visuals/popup_ggplot_leaflet.gif)
+
 ## Packrat Intialization
 
 I'm using [`packrat`](https://rstudio.github.io/packrat/) to make my scripts as reproducible as possible. Prior to running any of my scripts, run the following lines of code:
