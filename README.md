@@ -21,5 +21,3 @@ packrat::init(here::here())
 
 # end of script #
 ```
-
-*Last updated: September 16, 2018*
